@@ -1,4 +1,4 @@
-# Real-Time Operating Systems (RTOS): A Comprehensive Guide
+# Real-Time Operating Systems (RTOS)
 
 ![RTOS Architecture](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80)
 *Modern embedded systems often rely on RTOS for precise timing and reliability*
