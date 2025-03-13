@@ -4,16 +4,22 @@
 *Modern embedded systems often rely on RTOS for precise timing and reliability*
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Core Concepts](#core-concepts)
-3. [RTOS Architecture](#rtos-architecture)
-4. [Task Management](#task-management)
-5. [Scheduling Algorithms](#scheduling-algorithms)
-6. [Memory Management](#memory-management)
-7. [Inter-Task Communication](#inter-task-communication)
-8. [Real-World Applications](#real-world-applications)
-9. [What About its Future?](#what-about-its-future?)
-10. [Final Words](#finally)
+
+<details>
+  <summary>Click to Expand</summary>
+
+  1. [Introduction](#introduction)  
+  2. [Core Concepts](#core-concepts)  
+  3. [RTOS Architecture](#rtos-architecture)  
+  4. [Task Management](#task-management)  
+  5. [Scheduling Algorithms](#scheduling-algorithms)  
+  6. [Memory Management](#memory-management)  
+  7. [Inter-Task Communication](#inter-task-communication)  
+  8. [Real-World Applications](#real-world-applications)  
+  9. [What About its Future?](#what-about-its-future?)  
+  10. [Final Words](#finally)  
+
+</details>
 
 ## Introduction
 
