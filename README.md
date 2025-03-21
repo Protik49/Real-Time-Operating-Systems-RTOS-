@@ -37,7 +37,7 @@ According to recent market research by MarketsandMarkets, the global RTOS market
 | Reliable Task Management | Efficient handling of concurrent operations | Optimizes system performance |
 
 ## Core Concepts
-The fundamental building blocks of real-time computing establish the framework for understanding how RTOS operates and manages time-critical operations. These core principles form the basis for developing reliable and deterministic systems.
+The fundamental building blocks of real-time computing establish the framework for understanding how RTOS operates and manages 'time-critical' operations. These core principles form the basis for developing reliable and deterministic systems.
 
 ### Real-Time Computing Systems Comparison
 
@@ -67,7 +67,7 @@ void control_task(void *pvParameters) {
 ```
 
 ## RTOS Architecture
-The structural design and component organization of an RTOS create a robust foundation for real-time operations. From kernel components to task state management, each architectural element plays a vital role in ensuring deterministic behavior.
+The structural design and component organization of an RTOS create a solid foundation for real-time operations. From kernel components to task state management, each architectural element plays a vital role in ensuring its deterministic behavior.
 
 ### Kernel Components
 
