@@ -82,7 +82,7 @@ The structural design and component organization of an RTOS create a solid found
 ### Task States
 
 ![Task State Diagram](https://images.unsplash.com/photo-1516110833967-0b5716ca1387?auto=format&fit=crop&q=80)
-*RTOS Task State (Concept)*
+*RTOS Task State (Conceptual)*
 
 | State | Description | Transition Triggers |
 |-------|-------------|-------------------|
